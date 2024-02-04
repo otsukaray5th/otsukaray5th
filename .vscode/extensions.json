@@ -1,0 +1,17 @@
+{
+	"recommendations": [
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
+		"aaron-bond.better-comments",
+		"amirHA.better-comments-2",
+		"dbaeumer.vscode-eslint",
+		"antfu.goto-alias",
+		"cpreston321.nuxt-vscode",
+		"nuxtr.nuxt-vscode-extentions",
+		"nuxtr.nuxtr-vscode",
+		"esbenp.prettier-vscode",
+		"rvest.vs-code-prettier-eslint",
+		"gruntfuggly.todo-tree",
+		"vue.volar"
+	]
+}
