@@ -13,6 +13,7 @@
 		"rvest.vs-code-prettier-eslint",
 		"gruntfuggly.todo-tree",
 		"vue.volar",
-		"bradlc.vscode-tailwindcss"
+		"bradlc.vscode-tailwindcss",
+		"lokalise.i18n-ally"
 	]
 }
