@@ -12,6 +12,7 @@
 		"esbenp.prettier-vscode",
 		"rvest.vs-code-prettier-eslint",
 		"gruntfuggly.todo-tree",
-		"vue.volar"
+		"vue.volar",
+		"bradlc.vscode-tailwindcss"
 	]
 }
